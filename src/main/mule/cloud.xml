@@ -14,6 +14,6 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 	<configuration-properties doc:name="Configuration properties" doc:id="eb6e8d78-8f6b-43c8-afa3-675a8a2c4cc2" file="cloud.yaml" />
 	<flow name="cloudhubdeployementincloudehubeFlow" doc:id="1c110534-a751-4bb8-802c-1256ea19c27b" >
 		<http:listener doc:name="Listener" doc:id="f6a0125b-a8a1-423d-b98c-84aed5cf43b7" config-ref="HTTP_Listener_config" path="/cloud"/>
-		<set-payload value='#["my first deployment in  cloudehub4356789p"]' doc:name="Set Payload" doc:id="2c0d06a0-5c86-4289-9359-5f80e616ba8d" />
+		<set-payload value='#["my first deployment in  cloudehub4356789pddsfsf"]' doc:name="Set Payload" doc:id="2c0d06a0-5c86-4289-9359-5f80e616ba8d" />
 	</flow>
 </mule>
