@@ -32,12 +32,12 @@
 				<extensions>true</extensions>
 				<configuration>
 				
-				<cloudHubDeployment>
+	   <cloudHubDeployment>
             <uri>https://anypoint.mulesoft.com</uri>
             <muleVersion>4.3.0</muleVersion>
             <username>amir222</username>
             <password>Amir122306</password>
-            <applicationName>cloud1</applicationName>
+            <applicationName>cloud</applicationName>
             <environment>Sandbox</environment>
             <workerType>MICRO</workerType>
             <objectStoreV2>true</objectStoreV2>
